@@ -21,9 +21,10 @@ width:100%;
 .vedio-title{
  margin-top:0;
  font-size:14px;
- font-weight:500;
+ font-weight:bold;
  line-height:20px;
  margin-bottom:10px;
+
 }
 
 
@@ -284,4 +285,7 @@ a {
   color: inherit;
 }
 
+
+</style>
+  
 
